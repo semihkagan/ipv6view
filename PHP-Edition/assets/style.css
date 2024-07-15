@@ -2,9 +2,9 @@
     --main-bg-color: #181a1b; /* Ana arka plan rengi */
     --main-text-color: #e8e6e3; /* Ana metin rengi */
     --accent-color: #FB923C; /* Vurgu rengi */
-    --hover-color: #eb9a3d; /* Üzerine gelindiğindeki arka plan rengi */
+    --hover-color: #b7541a; /* Üzerine gelindiğindeki arka plan rengi */
     --logo-shadow-color: rgba(252, 123, 3, 0.8); /* Logo gölge rengi */
-    --button-bg-color: #b7541a; /* Buton arka plan rengi */
+    --button-bg-color: #eb9a3d; /* Buton arka plan rengi */
     --button-shadow-color: #bf730f; /* Buton gölge rengi */
     --logo-max-width: 55%; /* Logo maksimum genişliği */
     --logo-mobile-max-width: 35%; /* Logo mobil maksimum genişliği */
