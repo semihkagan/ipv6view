@@ -4,4 +4,4 @@ Disallow: /assets/
 Disallow: /assets/imgs/
 Disallow: /src/  
 
-Sitemap: https://www.example.com/sitemap.xml  
+Sitemap: https://semihkagan.github.io/ipv6view/sitemap.xml  
