@@ -12,7 +12,7 @@ fetch('https://api.ipify.org/?format=json')
 })
 .catch(error => {
     console.error('Error fetching IP address:', error);
-    document.getElementById('ip').textContent = 'Error fetching IP address';
+    document.getElementById('ip').textContent = 'IP adresi alınırken hata oluştu';
 }); 
 
 // copyIP() function - 1
