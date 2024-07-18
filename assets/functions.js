@@ -1,3 +1,6 @@
+// https://github.com/semihkagan/ipv6view
+// Lütfen yorum satırlarını silmeyin :/ ❤️
+
 // Alert açık mı, kapalı mı olsun
 var alertOpen = true;
 // Alert mesajı
@@ -40,3 +43,4 @@ function closeAlert() {
     alertOpen = false;
 }
 
+// https://github.com/semihkagan tarafından yazılmıştır.
