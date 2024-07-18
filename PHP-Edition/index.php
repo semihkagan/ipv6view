@@ -1,7 +1,9 @@
+<?php
 // https://github.com/semihkagan/ipv6view
 // Lütfen yorum satırlarını silmeyin :/ ❤️
-<?php
+
 $ip_adresi = $_SERVER['REMOTE_ADDR'];
+
 ?>
 <html lang="tr">
 <head>
@@ -31,4 +33,3 @@ $ip_adresi = $_SERVER['REMOTE_ADDR'];
 </div>
 </body>
 </html>
-// https://github.com/semihkagan tarafından yazılmıştır.
